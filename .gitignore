@@ -3,3 +3,5 @@ node_modules/
 .editorconfig
 .tsconfig.json
 .eslintrc.json
+uploads/*
+!uploads/.gitkeep
